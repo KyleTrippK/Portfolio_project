@@ -16,6 +16,7 @@ body{
     margin: auto;
     display: flex;
     background-color: #100f3a;
+    border-radius: 10px;
     margin-bottom: 50px;
     box-sizing: border-box;
     font-family:'Delius', cursive;
@@ -44,9 +45,6 @@ body{
 #pic{
     padding-right: 15px;
     padding-top: 20px;
-}
-.pro:hover{
-    box-shadow: 
 }
 /*My projects*/
 .projects{
