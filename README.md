@@ -24,6 +24,9 @@ The following languages have been used on this project:
     <li>Bootstrap</li>
 </ol>
 
+# live site
+------------------------------------------
+view [Live] https://kyletrippk.github.io/Portfolio_project/
 # Bugs
 --------------------------------------------
 Not any so far.
