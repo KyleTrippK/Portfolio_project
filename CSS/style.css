@@ -1,0 +1,67 @@
+body{
+    background-color: #050529;
+    color: #ffffff;
+}
+#maintext{
+    text-align: center;
+    /* font-family:; */
+}
+#About-me{
+    width: 70%;
+    margin: auto;
+    display: flex;
+    background-color: #0F0D5B;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+}
+#intro{
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+#about-text{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+#pic{
+    padding-right: 15px;
+    padding-top: 20px;
+}
+#work{
+    width: 70%;
+    margin: auto;
+}
+ul>li{
+    list-style: none;
+}
+#flexholder{
+    width: 80%;
+    margin: auto;
+    display: flex;
+
+}
+.project{
+    background-color: rgb(4, 34, 46);
+    width: 30%;
+    margin-left: 15px;
+    padding: 10px;
+    height: 280px;
+    font-size: 20px;
+}
+.button{
+    background-color: slateblue;
+    border: none;
+    margin-left: 80px;
+    border-radius: 5px;
+    padding: 15px;
+    font-size: 15px;
+}
+.button:hover{
+    opacity: .5;
+    font-weight: bold;
+}
+.contact-me{
+    margin: auto;
+    width: 30%;
+}
