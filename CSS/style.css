@@ -24,6 +24,9 @@ body{
     font-size: 40px;
     font-weight: bold;
 }
+.shutter{
+    margin-left: 33%;
+}
 #pic{
     padding-right: 15px;
     padding-top: 20px;
