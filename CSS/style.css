@@ -2,12 +2,15 @@ body{
     background-color: #050529;
     color: #ffffff;
 }
+/*Big text*/
 #maintext{
     text-align: center;
     font-family: 'Rock Salt', cursive;
     font-size: 70px;
     margin: 30px;
+
 }
+/* About me section*/
 #About-me{
     width: 70%;
     margin: auto;
@@ -16,13 +19,14 @@ body{
     margin-bottom: 50px;
     box-sizing: border-box;
     font-family:'Delius', cursive;
-    /* font-weight: bold; */
 }
+/* Introductory text*/
 #intro{
     font-size: 18px;
     box-sizing: border-box;
     padding: 10px;
 }
+/*About me text*/
 #about-text{
     text-align: center;
     font-size: 40px;
@@ -31,16 +35,20 @@ body{
 .font{
     font-family: 'Rock Salt', cursive;
 }
+/*Braces*/
 .shutter{
     margin-left: 33%;
 }
+/*My skills pics*/
 #pic{
     padding-right: 15px;
     padding-top: 20px;
 }
+/*My projects*/
 .projects{
     font-family: 'Delius', cursive;
 }
+/*work experience*/
 #work{
     width: 70%;
     margin: auto;
@@ -62,7 +70,7 @@ ul>li{
     height: 280px;
     font-size: 20px;
 }
-
+/*View projects button*/
 .button{
     background-color: slateblue;
     border: none;
@@ -76,6 +84,7 @@ ul>li{
     opacity: .5;
     font-weight: bold;
 }
+/*Contacts*/
 .contact-me{
     margin: auto;
     width: 30%;
